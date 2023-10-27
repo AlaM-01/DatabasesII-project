@@ -1,0 +1,7 @@
+Table Name,Column Name,Column Type,Clustering Key,Index Name,Index Type,Min,Max,
+Doctor,name,java.lang.String,false,null,null,A,ZZZZZ
+Doctor,salary,java.lang.Integer,false,null,null,10000,40000
+Doctor,id,java.lang.Integer,true,null,null,0,1000
+student,age,java.lang.Integer,false,null,null,18,40
+student,name,java.lang.String,false,null,null,A,ZZZZZ
+student,id,java.lang.Integer,true,null,null,0,1000
